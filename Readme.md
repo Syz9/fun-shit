@@ -8,7 +8,7 @@
 
 - Console hacks :: https://hastebin.com/uwuniwibev.rb
 
-- Slowest nitro sniper :: https://cdn.discordapp.com/attachments/785327015611858954/785328530271371264/Sniper_1.rar Faster one is Execard
+- Slowest nitro sniper :: https://cdn.discordapp.com/attachments/785327015611858954/785328530271371264/Sniper_1.rar
 
 - Rich presence for chrome :: https://cdn.discordapp.com/attachments/785327015611858954/785329529497321502/Chrome-RPC-master.zip
 
