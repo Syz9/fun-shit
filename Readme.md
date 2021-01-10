@@ -68,35 +68,6 @@
 
 - Discord best selfbot :: https://github.com/Jeancys/Execard-Selfbot/archive/main.zip
 
-### Bonus ~
-
-- Getting your token
-
-Paste:  
-``var req=webpackJsonp.push([[],{extra_id:(e,r,t)=>e.exports=t},[["extra_id"]]]);for(let e in req.c)if(req.c.hasOwnProperty(e)){let r=req.c[e].exports;if(r&&r.__esModule&&r.default)for(let e in r.default)"getToken"===e&&console.log(r.default.getToken())}
-``
-In console by pressing CTRL + SHIFT + I
-
-
-- Logging in to someone's Token
-
-Paste:  
- ``function login(token) {
-setInterval(() => {
-document.body.appendChild(document.createElement `iframe`).contentWindow.localStorage.token = `"${token}"`
-}, 50);
-setTimeout(() => {
-location.reload();
-}, 200);
-}
-login("TOKEN_HERE")
-``
-In console to login to someone's token.
-
-- Breaking discord
-
-Paste:  
- ``document.designMode = 'on'`` In console to break your discord.
 ## Tools
 
 - PDF cracker :: https://cdn.discordapp.com/attachments/785327015611858954/785328921830621184/pdf_crack-master.zip
@@ -115,7 +86,7 @@ Paste:
 
 - Twitch bot :: https://cdn.discordapp.com/attachments/707802647100391454/709519110375080006/Twitch.BOT.rar
 
-## Fun Things.txt
+## Fun Things
 - http proxies :: https://cdn.discordapp.com/attachments/785327015611858954/785329934511374336/http_proxies.txt
 
 - NordVPN accounts :: https://cdn.discordapp.com/attachments/707802647100391454/710307848835432568/NordVpn_Fresh_hits.txt
@@ -136,7 +107,7 @@ Paste:
 
 - **11M EMAIL PASS COMBOS** :: https://anonfiles.com/j2ubf1d1oc/11M_EMAIL-PASS_Combo_txt
 
-## Free Stuff:
+## Free Stuff
 
 - https://autotokker.com/ - 3 day trial (Helped me get fucking crap ton of likes)
 
