@@ -1,6 +1,3 @@
-## oops
-they banned me so these gotta go back up :P
-
 ## Discord Programs
 
 - Vanity hack :: https://cdn.discordapp.com/attachments/785327015611858954/785327867801763840/vanity-exploit-master.zip
@@ -174,7 +171,7 @@ they banned me so these gotta go back up :P
 
 - 9. Open Guest Mode in Chrome
 - 3. Go To YouTube.com
-- 2. Start Random Video .
+- 2. Start Random Video.
 - 7. Give Like & Do Sign In.
 - 5. Create New Account 
 - 1. Type Required Info
@@ -182,4 +179,4 @@ they banned me so these gotta go back up :P
 - 6. Create Account & Click Agree TOS
 _____________________________________________________
 
-**Some (if not all) are Rezizt's boost perks**
+**I didnt make these**
