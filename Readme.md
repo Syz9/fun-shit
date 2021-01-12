@@ -66,8 +66,6 @@
 
 - Discord nitro purchaser :: https://cdn.discordapp.com/attachments/785327015611858954/785332990988517386/discord-nitro-purchaser-master.zip
 
-- Discord best selfbot :: https://github.com/Jeancys/Execard-Selfbot/archive/main.zip
-
 ## Tools
 
 - PDF cracker :: https://cdn.discordapp.com/attachments/785327015611858954/785328921830621184/pdf_crack-master.zip
